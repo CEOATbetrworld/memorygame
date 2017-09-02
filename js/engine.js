@@ -51,7 +51,7 @@ function setRating(moves) {
 		$ratingStars.eq(1).removeClass('fa-star').addClass('fa-star-o');
 		rating = 1;
 	} 
-	}	
+		
 	return { score: rating };
 };
 
