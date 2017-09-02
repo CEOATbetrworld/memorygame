@@ -12,3 +12,12 @@ How to PLay
 When you win ?
 ============================
 You win when you match all the cards.
+
+How you can build this Game ?
+============================
+
+_Just learn_
+ 
+*JavaScript Learn how to manipulate DOM
+*HTML5
+*CSS3
