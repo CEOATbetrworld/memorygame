@@ -1,7 +1,7 @@
 How to run
 ============================
 
-Launch by clicking [here][https://ceoatbetrworld.github.io/memorygame/]
+Launch by clicking [here](https://ceoatbetrworld.github.io/memorygame/)
 
 How to PLay
 ============================
