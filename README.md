@@ -16,7 +16,7 @@ You win when you match all the cards.
 How you can build this Game ?
 ============================
 
-##Just learn
+## Just learn
  
 * JavaScript Learn how to manipulate DOM
 * HTML5
