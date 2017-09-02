@@ -1,12 +1,14 @@
 How to run
 ============================
 
-Launch by clicking [here][]
+Launch by clicking [here][https://ceoatbetrworld.github.io/memorygame/]
 
-# How to PLay
+How to PLay
+============================
 
-*click on card to flip them
-*you have to match all the cards
+* Click on card to flip them
+* You have to match all the cards
 
-# When you win ?
+When you win ?
+============================
 You win when you match all the cards.
