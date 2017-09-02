@@ -20,8 +20,8 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   background: #FFF;
-  overflow: hidden;
   font-family: 'Coda', cursive;
+  overflow: scroll;
 }
 
 h1 {
